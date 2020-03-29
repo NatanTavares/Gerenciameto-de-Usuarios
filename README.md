@@ -1,2 +1,2 @@
-# NatanTavares
-Gerenciamento-de-Usuários
+## Gerenciamento de Usuários
+Aplicação base para estudos*
